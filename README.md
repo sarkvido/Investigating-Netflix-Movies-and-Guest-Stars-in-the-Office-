@@ -1,2 +1,2 @@
 # Investigating-Netflix-Movies-and-Guest-Stars-in-the-Office-
-Investigating Netflix Movies and Guest Stars in the Office (DATACAMP)
+Please open the **notebook** files everything is **well explained** in the **notebook**  
